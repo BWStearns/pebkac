@@ -31,3 +31,4 @@ JS
 
  * [Edit-distance](https://en.wikipedia.org/wiki/Edit_distance) based search. This might alleviate some work in terms of de-specifying your errors for google's sake.
  * Parsers for classes of errors? Lots of work but it'd be pretty solid in terms of how good the answers could be. Could even auto-generate recommendations.
+
